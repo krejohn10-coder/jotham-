@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | Jotham Jeremiah Okure</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation menu -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <h1>Contact</h1>
+  <p>You can reach Jotham Jeremiah Okure via email or phone. Below is a simple contact form (no data will actually be sent):</p>
+  <form>
+    <label>Name</label><br>
+    <input type="text" name="name" placeholder="Your name"><br><br>
+    <label>Email</label><br>
+    <input type="email" name="email" placeholder="Your email"><br><br>
+    <label>Message</label><br>
+    <textarea name="message" rows="4" cols="50" placeholder="Your message"></textarea><br><br>
+    <button type="submit">Send Message</button>
+  </form>
+
+  <h2>Other Contacts</h2>
+  <p>Email: <a href="mailto:johnokure1087@gmail.com">johnokure1087@gmail.com</a></p>
+  <p>Phone: +256 789 123456</p>
+  <p>Social: <a href="https://facebook.com/yourprofile">Facebook</a>, <a href="https://x.com/johnokure1087">X (Twitter)</a></p>
+</body>
+</html>
