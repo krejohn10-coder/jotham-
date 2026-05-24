@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Jotham Jeremiah Okure</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navigation menu -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </nav>
+
+  <h1>About Jotham Jeremiah Okure</h1>
+  <p>Jotham Jeremiah Okure is a young student from Uganda. He has a passion for photography, nature, and learning new things. Jotham loves spending time with family and exploring technology. He aspires to become a software developer in the future.</p>
+  <p>He attended [School Name Here] and enjoys [hobbies/interests]. In this website, he shares some of his favourite photos and contact information for anyone who wants to connect.</p>
+</body>
+</html>
